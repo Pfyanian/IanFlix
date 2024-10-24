@@ -1,5 +1,12 @@
 body{
-        background-color: rgb(34, 1, 59);
+        background-color: rgb(7, 0, 10);
         color: rgb(241, 238, 234);
 
 }
+
+        section{
+                background-color: darkslategrey;
+                padding-top: 80px;
+                padding-bottom: 80px;
+
+        }
