@@ -21,11 +21,13 @@ header{
         margin: 30px;
 
 }
-
+img{
+        height: 300px;
+}
 .categoria-videos{
         display: flex;
         overflow-x: auto;
         gap: 10px;
-
+        margin-right: 10px;
 
 }
